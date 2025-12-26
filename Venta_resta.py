@@ -19,7 +19,7 @@ with zipfile.ZipFile('historicos.zip', 'r') as z:
 # Zonas
 zonas = {'ABA': 'ABASOLO', 'CAL': 'CALVILLO', 'IRA': 'IRAPUATO', 
          'CEL': 'CELAYA', 'SIL': 'SILAO', 'AGS': 'AGS', 'APA': 'APASEO'
-         , 'SN MIGUEL DE ALLENDE': 'SAN MIGUEL DE ALLENDE', 'SNJL': 'SAN JUAN'}
+         , 'SN MIGUEL DE ALLENDE': 'SAN MIGUEL DE ALLENDE', 'SNJL': 'SAN JUAN','LEO': 'LEON'}
          
 
 # Calcular
